@@ -30,7 +30,7 @@
 
 1. **Repository klonen:**
    ```bash
-   git clone https://github.com/DEIN_USERNAME/SmartPantry.git
+   git clone https://github.com/MaxBres/SmartPantry.git
    cd SmartPantry
    ```
 
